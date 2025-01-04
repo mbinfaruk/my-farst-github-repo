@@ -1,4 +1,34 @@
+*{
+    padding: 5px;
+}
+ul#ashaa{
+    list-style-type: none;
+}
 p{
     color:aquamarine;
     font-size: larger;
+    border: 10px;
+    border-radius: 15px;
+    background-image: url(Image/1634795524244.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 5px;
+}
+#asha{
+    text-align: center;
+    font-size: larger;
+    text-decoration: overline;
+    color: rgba(12, 75, 79, 0.705);
+
+}
+li{
+    color:rgb(23, 60, 23);
+    text-align: center;
+    font-size: medium;
+}
+h2{
+    color: darkslategray;
+    text-decoration: underline;
+    text-align: center;
+
 }
